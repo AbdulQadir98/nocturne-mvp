@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 List of software and dependencies needed to run the project.
 
 - Python 3.x
-- Flask
+- Ultralytics
 - etc.
 
 ### Installation
@@ -61,11 +61,11 @@ Step-by-step guide on how to install the necessary dependencies and get the proj
 
 Instructions on how to use the project once it's set up.
 
-1. Run the Flask application:
+1. Run the application:
    ```sh
-   flask run
+   python app.py
    ```
-2. Open a web browser and navigate to `http://localhost:5000` to view the application.
+2. Open browser and navigate to `http://localhost:5000` to view the application.
 
 ## Deployment
 
